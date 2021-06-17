@@ -34,13 +34,15 @@ My Little Home is a connected object composed of sensors, air purifier and humid
 - Lien : https://www.tinkercad.com/things/hXSyoJA5Mw5-brilliant-amberis-bigery/edit?sharecode=cppk7CrqiHLTV_Y1zzJm6E3CoDY6nVxdb4KLX2TpAns
 - Rendu : 
 
-![alt text]( "3D modeling")
+![alt text](https://github.com/Aminatak/IOT-BIG-DATA/blob/main/images/model3D01.png?raw=true "3D modeling")
+
+![alt text](https://github.com/Aminatak/IOT-BIG-DATA/blob/main/images/model3D02.png?raw=true "3D modeling")
 
 ## TinkerCad
 - Lien : https://www.tinkercad.com/things/8hh02a1uZlA
 - Rendu : 
 
-![alt text]( "TinkerCad")
+![alt text](https://github.com/Aminatak/IOT-BIG-DATA/blob/main/images/tinkercad.png?raw=true "TinkerCad")
 
 
 ## Pièces
